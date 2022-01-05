@@ -16,7 +16,7 @@ Notification Email - The receiver's mail address.
 ## Post-deployment
 
 ### Configure connections
-Once this Playbooks template is deployed, you will need to go into the Logic App, edit it and click on each of the steps that require an authenticated connection to your tenant and complete the connection process. These steps will have an exclamation point showing that the connection needs to be completed. Make sure to also open the "For each" step which also contains a step that requires an authenticated connection.
+Once this Playbooks template is deployed, you will need to go into the Logic App, edit it and click on each of the steps that require an authenticated connection to your tenant and complete the connection process. These steps will have an exclamation mark showing that the connection needs to be completed. Make sure to also open the "For each" step which also contains a step that requires an authenticated connection.
 Note:  Email sent with this playbook will be from user that creates connection!
 
 ### Attach the playbook
