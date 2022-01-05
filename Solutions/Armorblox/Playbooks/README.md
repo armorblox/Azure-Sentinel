@@ -21,7 +21,7 @@ Note:  Emails sent with this playbook will be from the user that creates the con
 
 ### Attach the playbook
 After deployment, attach this playbook to the `Armorblox Needs Review` analytic rule so it runs when the alert is created.</br>
-Note: Playbook is disabled by default. Please enable it before assigning to the Automation rule!
+Note: Playbook is disabled by default. Please enable it before assigning to the Automation rule.
 
 ## Screenshots
 ### Playbook screenshot
